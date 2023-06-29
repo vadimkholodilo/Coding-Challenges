@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "fudge.auto-using",
+        "ms-dotnettools.csharp",
+        "ms-dotnettools.csdevkit",
+        "visualstudioexptteam.vscodeintellicode",
+        "visualstudioexptteam.intellicode-api-usage-examples",
+        "plibither8.remove-comments"
+    ]
+}
